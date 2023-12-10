@@ -1,0 +1,2 @@
+# Space Dodge
+This project was a tutorial on how to use pygame from [Tech With Tim](https://www.youtube.com/watch?v=waY3LfJhQLY). It is my very first time using pygame, and this project has taught me enough to start working on my own games!
