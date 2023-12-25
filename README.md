@@ -9,4 +9,4 @@ Thanks! :)
 
 Current Projects:
 - [Space Dodge](https://github.com/qkm2000/Personal-Projects/tree/main/Space%20Dodge)
-- [Ping Pong](https://github.com/qkm2000/Personal-Projects/tree/main/Ping%20Pong)
+- [Ping Pong](https://github.com/qkm2000/Personal-Projects/tree/main/Pinging%20Pong)
