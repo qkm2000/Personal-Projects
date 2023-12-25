@@ -19,7 +19,7 @@ STAR_HEIGHT = 20
 STAR_VEL = 3
 
 # background
-BG = pygame.transform.scale(pygame.image.load("space.jpeg"), (WIDTH, HEIGHT))
+BG = pygame.transform.scale(pygame.image.load("Space Dodge/space.jpeg"), (WIDTH, HEIGHT))
 
 # font setup
 pygame.font.init()
